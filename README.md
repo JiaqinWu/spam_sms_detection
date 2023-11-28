@@ -1,6 +1,8 @@
 # Predicting SMS Categories with Machine Learning and Text Analysis
 We aimed to use machine learning and text analysis technology to identify the spam messages in our daily lives.
 
+### Author: Jiaqin Wu
+
 ### Background:
 In our rapidly evolving technological landscape, the specter of data privacy concerns looms large, casting a shadow over our digital lives (Mai, 2016). Each day, the average person’s inbox is inundated with a deluge of unsolicited Short Message Services (SMS). While some of these messages may be benign, others harbor insidious risks, potentially leading to fraudulent activities that can wreak havoc in our lives (Prusty, Sainath, Jayasingh, & Mantri, 2022). What compounds this issue is the unsettling fact that a majority of individuals remain blissfully ignorant of the intricate pathways through which their personal information is surreptitiously disseminated across the vast expanse of the internet (Malandrino et al., 2013). Despite the growing awareness of these concerns, they persist as a daunting challenge.
 
